@@ -55,7 +55,7 @@ namespace Library
                 }
                 else
                 {
-                    Console.WriteLine("Error: Member address cannot be blank or contain numbers.");
+                    Console.WriteLine("Error: Member address cannot be blank or contain numbers...");
                 }
             }
         }
